@@ -1,2 +1,2 @@
 # PassStorer
-A app that holds passwords, with no connections to the internet, all passwords are stored locally
+A app that holds passwords, with no connections to the internet. All passwords are stored locally
